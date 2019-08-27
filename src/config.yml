@@ -1,0 +1,12 @@
+#变量：%player%   代表玩家
+mysql:
+  ip: "127.0.0.1:3306"
+  dbname: "kuaiba"
+  dbuser: "root"
+  dbpass: "RIQ4v75e2016"
+config:
+  serverarea: "1"
+  teleport: "1区"
+  jieshao:
+  - ""
+

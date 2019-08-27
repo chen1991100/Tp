@@ -1,0 +1,11 @@
+﻿name: TpDataSave
+main: com.chen.TpDataSave
+version: 1.0
+description: TpDataSave
+author: TpDataSave
+website: http://www.TpDataSave.com
+prefix: TpDataSave
+commands:
+  tpdatasave:
+description: TpDataSave
+usage: /TpDataSave
