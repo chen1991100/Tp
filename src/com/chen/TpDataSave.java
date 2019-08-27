@@ -44,6 +44,7 @@ public class TpDataSave extends JavaPlugin implements Listener {
 		mysql_dbpass = getConfig().getString("mysql.dbpass");
 		serverarea  = getConfig().getString("config.serverarea");
 		teleport = getConfig().getString("config.teleport");
+		System.out.println("=======================");
 	}
 	public void onEnable() {
 		Connection conn = getNewConnection();
